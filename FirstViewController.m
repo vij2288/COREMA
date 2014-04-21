@@ -91,7 +91,7 @@
         NSLog(@"D time only is %@",dTimeOnly);
         
         UILabel *label =  [[UILabel alloc] initWithFrame: CGRectMake(40,80, 800, 40)];
-        //NSComparisonResult result;
+        //NSComparisonResult result;dddd
         
         /*
          result=[currentTimeOnly compare:bTimeOnly];
