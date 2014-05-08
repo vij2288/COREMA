@@ -4,7 +4,8 @@
 //
 //  Created by Vijith Venkatesh on 4/12/14.
 //  Copyright (c) 2014 Vijith Venkatesh. All rights reserved.
-//
+//  Group members Vijith, Adwaith, Shreya, Aditya
+
 
 #import "AppDelegate.h"
 #import "FirstViewController.h"
@@ -32,12 +33,7 @@
 - (void)applicationWillEnterForeground:(UIApplication *)application
 {
     // Called as part of the transition from the background to the inactive state; here you can undo many of the changes made on entering the background.
-    
-    NSLog(@"In app delegate");
-    /*FirstViewController *fn =[[FirstViewController alloc]init];
-    UINavigationController *navigationController = (UINavigationController *)self.window.rootViewController;
-    [navigationController pushViewController:fn animated:YES];
-    */
+
 }
 
 - (void)applicationDidBecomeActive:(UIApplication *)application

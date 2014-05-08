@@ -8,6 +8,7 @@
 
 #import <Foundation/Foundation.h>
 
+// this object contains variables to track question, category and answers
 @interface QnA : NSObject
     @property NSString *category;
     @property NSString *question;
